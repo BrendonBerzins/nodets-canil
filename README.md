@@ -12,4 +12,4 @@ Projeto de Curso Feito com NodeJs e Typescript
 
 ### Para Rodar o Projeto
 
-`npm run dev`
+`npm run start-dev`
